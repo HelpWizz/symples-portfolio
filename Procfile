@@ -1,1 +1,1 @@
-web: node vite preview
+web: index.html
