@@ -24,6 +24,7 @@ import {
   myAdmin,
   snailRace,
   psm,
+  rsx,
 } from '../assets';
 
 export const navLinks = [
@@ -171,8 +172,8 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'Admin Commands',
-    description: 'A game to test my custom chat admin commands',
+    name: 'Rank Simulator X',
+    description: 'Collect stars. Buy pets & ranks to get even more stars. ',
     tags: [
       {
         name: 'nextjs',
@@ -187,9 +188,8 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: myAdmin,
-    repo: 'https://github.com/SympleWymple/Admin-Commands.git',
-    demo: 'https://www.roblox.com/games/11740602256/Admin-Commands',
+    image: rsx,
+    demo: 'https://www.roblox.com/games/11488626438/Huge-Event-Rank-Simulator-X',
   },
   {
     id: 'project-4',

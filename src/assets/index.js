@@ -49,6 +49,7 @@ import proTube from  './projects/proTube.png';
 import myAdmin from './projects/myAdmin.jpeg';
 import snailRace from './projects/snailRace.png';
 import psm from './projects/psm.png';
+import rsx from './projects/rsx.png';
 
 export {
   bwmap,
@@ -94,5 +95,6 @@ export {
   myAdmin,
   snailRace,
   psm,
-  Symple
+  Symple,
+  rsx,
 };
