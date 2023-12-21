@@ -50,6 +50,7 @@ import myAdmin from './projects/myAdmin.jpeg';
 import snailRace from './projects/snailRace.png';
 import psm from './projects/psm.png';
 import rsx from './projects/rsx.png';
+import hsm from './projects/Head Smash Simulator.png'
 
 export {
   bwmap,
@@ -97,4 +98,5 @@ export {
   psm,
   Symple,
   rsx,
+  hsm,
 };

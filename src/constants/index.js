@@ -25,6 +25,7 @@ import {
   snailRace,
   psm,
   rsx,
+  hsm,
 } from '../assets';
 
 export const navLinks = [
@@ -103,7 +104,7 @@ const experiences = [
 
   {
     title: 'Programmer',
-    company_name: 'Pickaxe Mining Simulator',
+    company_name: 'Rank Simulator x',
     icon: dcc,
     iconBg: '#333333',
     date: 'Dec 2022 - May 2023',
@@ -214,9 +215,9 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'Pickaxe Mining Simulator',
+    name: 'Head Smash Simulator(Beta)',
     description:
-      'Destory ores with a pickaxe and with the help of pets',
+      'Recently Launched, Fully coded by Me',
     tags: [
       {
         name: 'nextjs',
@@ -231,8 +232,8 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: psm,
-    demo: 'https://www.roblox.com/games/10821317529/Pickaxe-Mining-Simulator',
+    image: hsm,
+    demo: 'https://www.roblox.com/games/14780309176/Head-Smash-Simulator',
   },
 ];
 
