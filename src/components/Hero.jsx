@@ -46,7 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              A 16 year old programmer who loves coding. <br className="sm:block hidden" />
+              A 17 year old programmer who loves coding. <br className="sm:block hidden" />
             </p>
           </div>
           <div
