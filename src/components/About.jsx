@@ -37,7 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-       My name is Symple, a 16 year old programmer who loves coding especially in roblox. 
+       My name is Symple, a 17 year old programmer who loves coding especially in roblox. 
        I have been coding on roblox for 4 years with vast expierence in many fields, 
        such as exploiting, simulators, role play, fps/tps games. I have also dealt 
        with many dependencies such knit, and profile service. I am keen to learn/ improve
